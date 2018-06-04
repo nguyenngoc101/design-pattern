@@ -1,5 +1,5 @@
 package com.ngocnv.structure.composite;
 
-public interface Employee {
+public interface IEmployee {
     void getInfo();
 }

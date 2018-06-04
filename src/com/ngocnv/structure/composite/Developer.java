@@ -1,6 +1,6 @@
 package com.ngocnv.structure.composite;
 
-public class Developer implements Employee {
+public class Developer implements IEmployee {
 
     private String id;
     private String name;
