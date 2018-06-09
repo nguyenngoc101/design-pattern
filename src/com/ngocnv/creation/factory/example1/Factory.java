@@ -1,4 +1,4 @@
-package com.ngocnv.structure.factory.example1;
+package com.ngocnv.creation.factory.example1;
 
 public class Factory {
 

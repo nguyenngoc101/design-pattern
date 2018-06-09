@@ -1,28 +1,26 @@
-package com.ngocnv.structure.factory.example2;
+package com.ngocnv.creation.factory.example2;
 
-public class ElvenKingdom implements IKingdom {
+public class OrcishKingdom implements IKingdom {
 
     @Override
     public IKing king() {
-        return new ElvenKing();
+        return new OrcishKing();
     }
 
     @Override
     public ICastle castle() {
-        return new ElvenCastle();
+        return new OrcishCastle();
     }
 
     @Override
     public IArmy army() {
-        return new ElvenArmy();
+        return new OrcishArmy();
     }
 
-
+    @Override
     public void getInfo() {
         System.out.println(king().getClass().getSimpleName() + " "
                 + castle().getClass().getSimpleName() + " "
                 + army().getClass().getSimpleName());
     }
-
-
 }

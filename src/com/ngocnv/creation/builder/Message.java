@@ -1,4 +1,4 @@
-package com.ngocnv.structure.builder;
+package com.ngocnv.creation.builder;
 
 public class Message {
     public String from;

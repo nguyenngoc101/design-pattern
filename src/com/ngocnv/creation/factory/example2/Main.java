@@ -1,4 +1,4 @@
-package com.ngocnv.structure.factory.example2;
+package com.ngocnv.creation.factory.example2;
 
 public class Main {
     public static void main(String[] args) {
