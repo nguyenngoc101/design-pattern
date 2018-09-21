@@ -1,8 +1,6 @@
 package com.ngocnv.com.ngocnv.cleanCode.exception;
 
 import java.io.IOException;
-import java.lang.reflect.Constructor;
-import java.util.concurrent.Callable;
 
 public class Main {
     public static void main(String[] args) {
