@@ -1,4 +1,4 @@
-package com.ngocnv.cleanCode.functions.example1.solution;
+package com.ngocnv.com.ngocnv.cleanCode.functions.solution;
 
 public class Payroll {
     public static void main(String[] args) {

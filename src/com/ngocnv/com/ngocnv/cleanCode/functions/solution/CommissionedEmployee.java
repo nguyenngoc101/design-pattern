@@ -1,6 +1,6 @@
-package com.ngocnv.cleanCode.functions.example1.solution;
+package com.ngocnv.com.ngocnv.cleanCode.functions.solution;
 
-public class SalariedEmployee implements IEmployee {
+public class CommissionedEmployee implements IEmployee {
     @Override
     public boolean isPayDay() {
         return false;
